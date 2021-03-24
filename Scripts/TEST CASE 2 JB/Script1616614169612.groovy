@@ -17,9 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://docs.oracle.com/javase/8/docs/')
+WebUI.openBrowser('https://www.youtube.com/')
 
 WebUI.closeBrowser()
 
